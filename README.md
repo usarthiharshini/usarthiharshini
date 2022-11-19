@@ -13,16 +13,30 @@
 
 - 📫 How to reach me **usarthiharshini@gmail.com**
 
-- 🎨 My Interests:
 
-                  📍 Doodling 🖍  
-                  📍 Writing Journal 📝                   
-                  📍 Listening to music 🎶                   
-                  📍 Fitness 🏋 
 
 - ⚡ Fun fact **I can eat a tub of ice-cream :ice_cream: at one go;)**
 <br/>
+<h2>🎨 My Interests:</h2>
 
+- **Doodling** 🖍  
+
+- **Writing Journal** 📝 
+ 
+- **Listening to music** 🎶 
+
+- **Fitness** 🏋 
+
+<br/>
+<h2> 🎯 Motivation</h2>
+
+ - **Consistency is the key** 🤞 
+
+ - **First Step is always the hardest** 📈
+ 
+ - **Think before you act** 💭 
+ 
+ <br/>
 <h2 align="left">:handshake: Let's Connect:</h2>
 <br/>
 <p align="left">
