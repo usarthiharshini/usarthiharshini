@@ -45,7 +45,7 @@
 <a href="https://codepen.io/harshinius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshinius" height="30" width="40" /></a>
  
   - 🔗 **LinkedIn** 
-<a href="https://linkedin.com/in/harshini usarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini usarthi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshini-usarthi-745922228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini usarthi" height="30" width="40" /></a>
  
   - 🔗 **CodeSandBox** 
 <a href="https://codesandbox.com/usarthiharshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="usarthiharshini" height="30" width="40" /></a>
