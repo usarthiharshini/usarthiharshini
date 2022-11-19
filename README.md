@@ -40,9 +40,18 @@
 <h2 align="left">:handshake: Let's Connect:</h2>
 <br/>
 <p align="left">
+  
+ - 🔗 **CodePen** 
 <a href="https://codepen.io/harshinius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshinius" height="30" width="40" /></a>
+ 
+  - 🔗 **LinkedIn** 
 <a href="https://linkedin.com/in/harshini usarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini usarthi" height="30" width="40" /></a>
+ 
+  - 🔗 **CodeSandBox** 
 <a href="https://codesandbox.com/usarthiharshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="usarthiharshini" height="30" width="40" /></a>
+ 
+  - 🔗 **My website** 
+ <a  href="https://codesandbox.com/usarthiharshini" target="blank">🌐 </a>
 </p>
 <br/>
 <h2 align="left">:hammer_and_wrench: My Toolkit:</h2>
