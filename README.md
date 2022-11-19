@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshini</h1>
-<h2 align="center">Aspiring Full Stack Developer</h2>
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align="right" width="200px" >
+<h2 align="left">About me </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usarthiharshini&label=Profile%20views&color=0e75b6&style=flat" alt="usarthiharshini" /> </p>
+<p>I'm an Aspiring Full Stack Developer. I studied Computer Science and Engineering in Indian Institute of Information Technology, Sricity. I'm currently sharpening my coding skills at Masai School. I'm amazed at how we can solve a complex problems in few lines of code. The more I code, The more I realise how fascinating algorithms are.  </p>
 
-
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align="right" width="200px" margin="50px">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -13,6 +12,13 @@
 - 💬 Ask me about **HTML,CSS,JS,REACT,REDUX&NODE**
 
 - 📫 How to reach me **usarthiharshini@gmail.com**
+
+- 🎨 My Interests:
+
+                  📍 Doodling 🖍  
+                  📍 Writing Journal 📝                   
+                  📍 Listening to music 🎶                   
+                  📍 Fitness 🏋 
 
 - ⚡ Fun fact **I can eat a tub of ice-cream :ice_cream: at one go;)**
 <br/>
