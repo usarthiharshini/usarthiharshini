@@ -15,7 +15,7 @@
 
 
 
-- ⚡ Fun fact **I can eat a tub of ice-cream :ice_cream: at one go;)**
+- ⚡ Fun fact **I can eat a tub of ice-cream :ice_cream: at one go, hehe;)**
 <br/>
 <h2>🎨 My Interests:</h2>
 
