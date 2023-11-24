@@ -51,7 +51,7 @@
 <a href="https://codesandbox.com/usarthiharshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="usarthiharshini" height="30" width="40" /></a>
  
   - 🔗 **My website** 
- <a  href="https://codesandbox.com/usarthiharshini" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="usarthiharshini" height="33" width="33" /> </a>
+
 </p>
 <br/>
 <h2 align="left">:hammer_and_wrench: My Toolkit:</h2>
